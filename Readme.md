@@ -214,10 +214,3 @@ Unit tests can be added by:
 - Testing domain logic independently
 
 The architecture is designed for **testability**.
-
----
-
-## 🙌 Author
-
-Built as a learning‑to‑production backend project using **FastAPI** and clean Python architecture principles.
-
